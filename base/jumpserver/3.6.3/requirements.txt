@@ -43,7 +43,7 @@ six==1.16.0
 sshtunnel==0.4.0
 sshpubkeys==3.3.1
 uritemplate==4.1.1
-urllib3==1.26.16
+urllib3==2.6.3
 vine==5.0.0
 werkzeug==2.3.6
 unicodecsv==0.14.1
