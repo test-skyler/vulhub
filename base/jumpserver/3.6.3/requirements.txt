@@ -140,3 +140,4 @@ azure-mgmt-network==23.1.0
 google-cloud-compute==1.13.0
 grpcio==1.56.2
 alibabacloud-dysmsapi20170525==2.0.24
+azure-core>=1.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
