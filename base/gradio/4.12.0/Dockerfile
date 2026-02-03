@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.14.2-slim
 
 RUN mkdir /app && pip install --no-cache-dir "gradio==4.12.0" "fastapi==0.112.4" "pydantic==2.8.2"
 
