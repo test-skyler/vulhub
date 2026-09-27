@@ -116,7 +116,7 @@ django-redis==5.3.0
 python-redis-lock==4.0.0
 pyopenssl==23.2.0
 redis==4.6.0
-pymongo==4.4.1
+pymongo==4.18.2
 pyfreerdp==0.0.1
 ipython==8.14.0
 forgerypy3==0.3.1
