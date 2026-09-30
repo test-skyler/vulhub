@@ -49,7 +49,7 @@ MarkupSafe==2.1.5
 msal==1.28.0
 msal-extensions==0.3.1
 msrest==0.7.1
-oauthlib==3.2.2
+oauthlib==4.0.0
 paramiko==3.4.0
 passlib==1.7.4
 pgadmin4==6.16
@@ -80,8 +80,8 @@ sqlparse==0.4.4
 sshtunnel==0.4.0
 typing_extensions==4.10.0
 ua-parser==0.18.0
-urllib3==1.26.18
+urllib3==2.8.0
 user-agents==2.2.0
-Werkzeug==2.1.2
+Werkzeug==3.1.9
 wsproto==1.2.0
 WTForms==3.1.2
