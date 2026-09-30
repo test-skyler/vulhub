@@ -43,7 +43,7 @@ six==1.16.0
 sshtunnel==0.4.0
 sshpubkeys==3.3.1
 uritemplate==4.1.1
-urllib3==1.26.16
+urllib3==2.8.0
 vine==5.0.0
 werkzeug==2.3.6
 unicodecsv==0.14.1
@@ -140,3 +140,4 @@ azure-mgmt-network==23.1.0
 google-cloud-compute==1.13.0
 grpcio==1.56.2
 alibabacloud-dysmsapi20170525==2.0.24
+oauthlib>=4.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
