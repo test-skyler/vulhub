@@ -53,7 +53,7 @@ oauthlib==3.2.2
 paramiko==3.4.0
 passlib==1.7.4
 pgadmin4==6.16
-Pillow==9.5.0
+Pillow==13.0.0
 portalocker==2.8.2
 psutil==5.9.3
 psycopg2-binary==2.9.9
