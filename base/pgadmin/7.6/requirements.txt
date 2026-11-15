@@ -20,7 +20,7 @@ cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
 cryptography==41.0.7
-dnspython==2.6.1
+dnspython==2.9.2
 email_validator==2.1.1
 eventlet==0.33.3
 Flask==2.2.5
@@ -67,7 +67,7 @@ packaging==24.0
 paramiko==3.4.0
 passlib==1.7.4
 pgadmin4==7.6
-Pillow==9.5.0
+Pillow==13.0.0
 portalocker==2.8.2
 proto-plus==1.23.0
 protobuf==4.25.3
